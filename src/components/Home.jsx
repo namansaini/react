@@ -6,7 +6,7 @@ function Home() {
     <Common
       title="Grow your business with"
       btncontent="Get Started"
-      imgsrc="https://picsum.photos/500"
+      imgsrc="https://thapatechnical.github.io/reactlivewebsite/static/media/img2.e981619f.svg"
       visit="/service"
     />
   );

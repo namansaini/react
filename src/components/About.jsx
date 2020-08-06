@@ -6,7 +6,7 @@ function About() {
     <Common
       title="Welcome to About page"
       btncontent="Contact Now"
-      imgsrc="https://picsum.photos/400"
+      imgsrc="https://thapatechnical.github.io/reactlivewebsite/static/media/hero-img.619f0cc8.png"
       visit="/contact"
     />
   );
